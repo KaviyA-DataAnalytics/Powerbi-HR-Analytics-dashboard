@@ -17,6 +17,9 @@ age distribution, and job satisfaction using Power BI.
 - HR Analytics
 - Data Visualization
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR-Analytics dashboard.png)
 
 
 
